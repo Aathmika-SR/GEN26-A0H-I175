@@ -1,13 +1,13 @@
 # Genesis 2026: Ideathon
 
-## GEN26-A0H-IXXX
-### Team Details
-#### **Team Name** <<Insert Your Team Name>> <br/>
+## GEN26-A0H-I175
+### Team Detais
+#### **Team Name** Code Storm
 #### Team Members
-|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
-|:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
-
+|         Role    |         👤 Name         |   🎓 Roll Number|⚧️ Gender|🏫 Department |days scholar/hostellor |
+                                                                           / Programme   |
+|:---------------:|:-----------------------:|:----------------:|:------- :|:------------:|:---------------------:|
+|   Team Leader   |   Yakavi S              |CB.SC.U4CSE26266  |F         | CSE          |Hostellor(Mythreyi)    |
+|    Member 2     |    Aathmika S R         |CB.SC.U4CSE26202  |F         | CSE          |Hostellor(Mythreyi)    |
+|    Member 3     |  Akshayashree S T       |CB.SC.U4CSE26204  |F         | CSE          |Hostellor(Mythreyi)    |
+|    Member 4     |  Kamireddy Harshini     |CB.SC.U4CSE26219  |F         | CSE          |Hostellor(Mythreyi)    |
