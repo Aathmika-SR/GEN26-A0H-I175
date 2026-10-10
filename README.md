@@ -1,11 +1,10 @@
 # Genesis 2026: Ideathon
 
 ## GEN26-A0H-I175
-### Team Detais
+### Team Details
 #### **Team Name** Code Storm
 #### Team Members
-|         Role    |         👤 Name         |   🎓 Roll Number|⚧️ Gender|🏫 Department |days scholar/hostellor |
-                                                                           / Programme   |
+|         Role    |         👤 Name         |   🎓 Roll Number|⚧️ Gender|🏫 Department/ Programme   | |days scholar/hostellor |
 |:---------------:|:-----------------------:|:----------------:|:------- :|:------------:|:---------------------:|
 |   Team Leader   |   Yakavi S              |CB.SC.U4CSE26266  |F         | CSE          |Hostellor(Mythreyi)    |
 |    Member 2     |    Aathmika S R         |CB.SC.U4CSE26202  |F         | CSE          |Hostellor(Mythreyi)    |
